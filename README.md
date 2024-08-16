@@ -9,7 +9,7 @@ My name is Daniel Bertolini, I'm from Brazil and I've been working with software
 
 I am an expert in front end development, but I always try to learn more about everything related to systems analysis and development. Especially Design System and Software Architecture in general
 
-I'm currently trying to work more on my GitHub, Dev.to and Medium, so if you haven't found anything interesting yet, give it some time 😅
+I'm currently trying to work more on my public GitHub, Dev.to and Medium, so if you haven't found anything interesting yet, give it some time 😅
 
 ## My github stats
 
